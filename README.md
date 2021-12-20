@@ -12,3 +12,6 @@ if you have any issues open an issue or join krypton webhost [discord](https://d
 
 # Why
 this is for people that dont necessarily know how to open a website on thier LOCAL network securely without thier machine being attacked.
+
+# Activity
+Seen as apache harderner is active and open source, anyone can contribute to it, and leave suggestions, I am currently working on making it more secure.
